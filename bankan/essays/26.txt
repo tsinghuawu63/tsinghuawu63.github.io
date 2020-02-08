@@ -1,0 +1,6 @@
+Subject: 谈谈: 对不起,管理者请看
+Author: Wanderor
+Time: Fri Jul  9 12:07:56 1999
+Address: 10.26.12.10
+Comments:
+楼内暂未开通E-mail服务，但本人作为网管一员，有E-mail邮箱，你只需将发送邮件服务器（SMTP)设为www.b26net，即可给我发信。
